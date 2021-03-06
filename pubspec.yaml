@@ -5,7 +5,7 @@ homepage: https://github.com/stablekernel/open-api-dart
 author: stable|kernel <jobs@stablekernel.com>
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.0.0 <2.12.0"
 
 dependencies:
   meta: ^1.1.5
